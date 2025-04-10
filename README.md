@@ -1,4 +1,4 @@
-Twin Peaks Scripts Text Generation
+Twin Peaks Text Generator
 
 This project uses a language model trained on the scripts from *Twin Peaks* Seasons 1 and 2 to generate new text in the style of the show. Inspired by Andrej Karpathy's video on building an NLP model from scratch, this project aims to generate new, creative text that mimics the tone, dialogue, and atmosphere of *Twin Peaks*.
 
